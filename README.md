@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cesar Camargo</h1>
-<h3 align="center">A Linux user learning about Data Engineer and DevOps.</h3>
+<h3 align="center">A Linux user learning about AWS and DevOps.</h3>
 
 - 🌱 I’m currently learning **AWS**
 
