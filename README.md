@@ -8,9 +8,7 @@
 - How to reach me caesar.camargo@gmail.com
 
 - 📄 Know about my experiences [www.linkedin.com/in/cesaracamargo](https://linkedin.com/in/cesaracamargo)
-
-
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/cesaracamargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cesaracamargo" height="30" width="40" /></a>
@@ -23,8 +21,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesaracamargo&show_icons=true&locale=en&layout=compact" alt="cesaracamargo" /></p>
 
 ![Estatistica](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
 
 <!--
 **CesarACamargo/CesarACamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
