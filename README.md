@@ -22,6 +22,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesaracamargo&show_icons=true&locale=en&layout=compact" alt="cesaracamargo" /></p>
 
+![Estatistica](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 <!--
 **CesarACamargo/CesarACamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
