@@ -1,38 +1,31 @@
-<h1 align="center">Hi 👋, I'm Cesar Camargo</h1>
-<h3 align="center">A Linux user learning about AWS and DevOps.</h3>
+# Cesar A. Camargo
 
-- 🌱 I’m currently learning **AWS**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcesaracamargo%2Fcesaracamargo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 💬 Ask me about **Shell Script**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesaracamargo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/caesar_camargo/)](https://www.instagram.com/caesar_camargo)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caesar.camargo@gmail.com)
 
-- How to reach me caesar.camargo@gmail.com
+[![Github](https://img.shields.io/github/followers/cesaracamargo?label=Follow&style=social)](https://github.com/cesaracamargo)
 
-- 📄 Know about my experiences [www.linkedin.com/in/cesaracamargo](https://linkedin.com/in/cesaracamargo)
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/cesaracamargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cesaracamargo" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/caesar_camargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/caesar_camargo" height="30" width="40" /></a>
-</p>
+- 💻 A Linux user learning about AWS and DevOps.
+- 🌱 I'm also learning Docker and Terraform.
+- 📫 How to reach me: caesar.camargo@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="hive" width="40" height="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesaracamargo&show_icons=true&locale=en&layout=compact" alt="cesaracamargo" /></p>
+### 🖥 Skills
 
-![Estatistica](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+- Suport Analytic
+- Linux administrator
+- AWS
+### ⚙️ Tech Stack
 
-<!--
-**CesarACamargo/CesarACamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bootstrap](https://img.shields.io/badge/-Shellscript-05122A?style=flat-square&logo=Shellscript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Terraform-05122A?style=flat-square&logo=Terraform&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
 
-Here are some ideas to get you started:
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesaracamargo&show_icons=true&locale=en&layout=compact" alt="cesaracamargo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=cesaracamargo&" alt="cesaracamargo" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
