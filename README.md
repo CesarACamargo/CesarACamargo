@@ -27,5 +27,7 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=cesaracamargo&" alt="cesaracamargo" />
 </div>
 
+![Camargo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaracamargo&show_icons=true&theme=hightcontrast)
+
 ---
 
